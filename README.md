@@ -55,23 +55,11 @@ Contributions are welcome! To get started:
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
 ## 🌟 Acknowledgments
 Special thanks to open-source contributors and libraries used in this project: Diffusers, Hugging Face, and PyTorch.
 
 ---
 
-## 📊 Sample Outputs
-Below are sample images generated and inpainted using this project:
-
-![Generated Image](example_generated_image.png)
-![Inpainted Image](example_inpainted_image.png)
-
----
 
 Ready to generate and transform images? Dive into Stable Diffusion magic now! ✨
 
